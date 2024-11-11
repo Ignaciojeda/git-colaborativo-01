@@ -1,0 +1,21 @@
+# Dependencias Node
+node_modules/
+
+#Archivos y carpetas de compilacion
+plataforms/
+plugins/
+www/
+build/
+
+#Archivos del entorno de desarrollo
+.idea/
+.vscode/
+.DS_Store
+.env
+
+#Logs y reportes
+*.logs
+.tmp
+$RECYCLE.BIN/
+/.ionic
+Thumbs.db
